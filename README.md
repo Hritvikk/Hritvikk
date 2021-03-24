@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Hritvikk Gupta
-
+<a href=" www.linkedin.com/in/hritvikk-gupta-51842b1b0">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <!--
 **Hritvikk/Hritvikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
